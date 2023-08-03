@@ -1,2 +1,10 @@
-# AI-Appendicitis
-Project done as a part of FEUP (Faculty of Engineering of the University of Porto) curriculum, AI bachelor course. Machine learning models and algorithms application on a Regensburg Pediatric Appendicitis dataset. Identify, if the person has appendicitis based on his biological characteristics.
+# Assignment 2. Supervised Learning. AI.
+
+## Final Delivery
+
+Students of FEUP
+
+- David Burchakov (up202203777@edu.fe.up.pt)
+- Adalberto Guedes (up202211077@edu.fe.up.pt)
+
+#### To run the program, unzip the folder and open through Jupyter Notebook.
