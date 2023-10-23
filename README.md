@@ -16,7 +16,7 @@ I. Correct the data
 Firstly, the data should be corrected from erroneous data, empty entries or outliners.
 
 Remove outliners
-![outliner](docs/putliner.png)
+![outliner](docs/outliner.png)
 
 Remove erroneous data
 ~~~~
