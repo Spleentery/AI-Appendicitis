@@ -16,6 +16,7 @@ I. Correct the data
 Firstly, the data should be corrected from erroneous data, empty entries or outliners.
 
 Remove outliners
+
 ![outliner](docs/outliner.png)
 
 Remove erroneous data
@@ -36,5 +37,11 @@ dataNew = dataNew.drop(rows_to_drop)
 rows_to_drop = dataNew[(dataNew['Age'] < 2) & (dataNew['Weight'] > 14.8)].index
 dataNew = dataNew.drop(rows_to_drop)
 ~~~~
+
+Additionally, we remove columns with incremental unique unformation that does not affect the final binary solution
+![US_number](docs/US_number.png)
+
+US_number is an incremental unique number of the patient that does not influence having appendicitis or not.
+
 II. Analyse the data
 III. Apply Machine Learning Algorithms
