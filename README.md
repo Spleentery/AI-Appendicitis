@@ -45,5 +45,11 @@ Additionally, we remove columns with incremental unique unformation that does no
 
 II. Analyse the data
 
+In order to anylise the data, we can make a *Heatmap graph* that indicates the correlation between each characteristic (column) 
+and desired result (having appendicitis: yes/no) and drop those columns that do not affect the result.
+
+![heatmap](docs/heatmap.png)
+
+
 III. Apply Machine Learning Algorithms
 
