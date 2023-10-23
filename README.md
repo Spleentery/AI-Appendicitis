@@ -7,12 +7,16 @@
 #### To run the program, open *Project_2_Supervised_Learning.ipynb* file with Jupyter Notebook.
 
 ## Description
+
+*To see a more detailed description and the result, open the .ipynb file*
+
+
 Application of different Machine Learning algorithms, including Nearest Neighbor, SVM, Decision Trees and Neural Networks and a comparison of theese algorithms. The purpose of the project is to find a binary solution for real-life data - Regensburg Pediatric Appendicitis dataset. 
 Machine Learning algorithms are taught to identify, whether an entry will have apendicitis or not based on his characteristics.
 
-#### Steps
+### Steps
 
-I. Correct the data
+#### I. Correct the data
 Firstly, the data should be corrected from erroneous data, empty entries or outliners.
 
 Remove outliners
@@ -43,7 +47,7 @@ Additionally, we remove columns with incremental unique unformation that does no
 
 *US_number is an incremental unique number of the patient that does not influence having appendicitis or not.*
 
-II. Analyse the data
+#### II. Analyse the data
 
 In order to anylise the data, we can make a *Heatmap graph* that indicates the correlation between each characteristic (column) 
 and desired result (having appendicitis: yes/no) and drop those columns that do not affect the result.
@@ -51,5 +55,14 @@ and desired result (having appendicitis: yes/no) and drop those columns that do 
 ![heatmap](docs/heatmap.png)
 
 
-III. Apply Machine Learning Algorithms
+#### III. Apply Machine Learning Algorithms
 
+**Algorithms applied:**
+
+a) Nearest Neighbor
+
+b) SVMs
+
+c) Decision Trees
+
+d) Neural Network
