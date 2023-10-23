@@ -4,7 +4,7 @@
 
 - David Burchakov (up202203777@edu.fe.up.pt)
 
-#### To run the program, unzip the folder and open through Jupyter Notebook.
+#### To run the program, open *Project_2_Supervised_Learning.ipynb* file with Jupyter Notebook.
 
 ## Description
 Application of different Machine Learning algorithms, including Nearest Neighbor, SVM, Decision Trees and Neural Networks and a comparison of theese algorithms. The purpose of the project is to find a binary solution for real-life data - Regensburg Pediatric Appendicitis dataset. 
@@ -44,4 +44,6 @@ Additionally, we remove columns with incremental unique unformation that does no
 *US_number is an incremental unique number of the patient that does not influence having appendicitis or not.*
 
 II. Analyse the data
+
 III. Apply Machine Learning Algorithms
+
