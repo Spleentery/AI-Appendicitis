@@ -41,7 +41,7 @@ dataNew = dataNew.drop(rows_to_drop)
 Additionally, we remove columns with incremental unique unformation that does not affect the final binary solution
 ![US_number](docs/US_number.png)
 
-US_number is an incremental unique number of the patient that does not influence having appendicitis or not.
+*US_number is an incremental unique number of the patient that does not influence having appendicitis or not.*
 
 II. Analyse the data
 III. Apply Machine Learning Algorithms
