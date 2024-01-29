@@ -11,7 +11,8 @@
 *To see a more detailed description and the result, open the .ipynb file*
 
 
-Application of different Machine Learning algorithms, including Nearest Neighbor, SVM, Decision Trees and Neural Networks and a comparison of theese algorithms. The purpose of the project is to find a binary solution for real-life data - Regensburg Pediatric Appendicitis dataset. 
+Application of different Machine Learning algorithms, including Nearest Neighbor, SVM, Decision Trees and Neural Networks and a comparison of theese algorithms. The purpose of the project is to find a binary solution for real-life data - 
+[Regensburg Pediatric Appendicitis](https://zenodo.org/records/7711412) dataset. 
 Machine Learning algorithms are taught to identify, whether an entry will have apendicitis or not based on his characteristics.
 
 ### Steps
