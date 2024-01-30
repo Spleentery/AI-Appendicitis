@@ -24,6 +24,7 @@ Remove outliers
 
 ![outliner](docs/outliner.png)
 *outlier
+
 Remove erroneous data
 ~~~~
 # - remove anomally tall babies
