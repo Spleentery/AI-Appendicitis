@@ -20,10 +20,10 @@ Machine Learning algorithms are taught to identify, whether an entry will have a
 #### I. Correct the data
 Firstly, the data should be corrected from erroneous data, empty entries or outliners.
 
-Remove outliners
+Remove outliers
 
 ![outliner](docs/outliner.png)
-
+*outlier
 Remove erroneous data
 ~~~~
 # - remove anomally tall babies
